@@ -42,5 +42,7 @@
 #define TA_TEEencrypt_CMD_RANDOMKEY_GET		2
 #define TA_TEEencrypt_CMD_RANDOMKEY_ENC		3
 #define TA_TEEencrypt_CMD_RANDOMKEY_DEC		4
+#define TA_RSA_CMD_GENKEYS			5
+#define TA_RSA_CMD_ENCRYPT			6
 
 #endif /*TA_TEEencrypt_H*/
